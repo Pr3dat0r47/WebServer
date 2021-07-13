@@ -1,0 +1,2 @@
+Datetime: 01/01/0001 12:00:00 ص | Message: System.Exception: Exception of type 'System.Exception' was thrown.
+   at HTTPServer.Server.HandleRequest(Request request) in D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\Server.cs:line 117

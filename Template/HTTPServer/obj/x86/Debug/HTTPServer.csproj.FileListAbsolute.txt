@@ -1,0 +1,32 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Sockets\Sockets\Lab-7\Lab-7\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Sockets\Sockets\Lab-7\Lab-7\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\College\4th Year\2nd Term\Data Communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Data comm\Project\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\college\4th year\2nd term\data communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+E:\college\4th year\2nd term\data communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe
+E:\college\4th year\2nd term\data communication\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\college\4th year\2nd term\data communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\college\4th year\2nd term\data communication\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\FCIS\Second term\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
